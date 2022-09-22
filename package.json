@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://gylgyl2000.github.io/LesBonnesPiecesApi/",
   "scripts": {
     "start": "json-server --port 8081 --no-cors db.json",
     "deploy": "gh-pages -d dist"
